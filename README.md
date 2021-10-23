@@ -1,5 +1,11 @@
+![logo](https://user-images.githubusercontent.com/39642060/138568047-a08785c8-ccdb-4afd-8d23-839bd8716156.png)
+
 # Unmutify
 Helping mute people to talk
+
+# Important Links
+1. [Demo Video](https://youtu.be/hs0nCrzd2AM)
+2. [Devpost](https://devpost.com/software/x-translator)
 
 ## Problem Statement
 - Many people are unable to talk due to their disabilities & many people are mute inborn
@@ -13,6 +19,10 @@ Helping mute people to talk
 - User can create custom sentences & pronounce them with text-to-speech
 - Emoji-To-Speech helps user to talk quickly with the help of various types of emojis
 - Unmutify has easy to use UI/UX. Anyone can learn to use this app very easily
+
+## Technology Used
+1. SwiftUI: UI + Functionality
+2. AVFoundation: Multimedia Framework by Apple to play AV
 
 ## Future Plans & Improvements
 - Our vision is to focus on helping Mute/Disabled people to communicate easily
