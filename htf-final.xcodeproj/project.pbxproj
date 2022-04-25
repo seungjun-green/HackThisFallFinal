@@ -15,14 +15,14 @@
 		C028D49E2723CC7900346A1A /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C028D49D2723CC7900346A1A /* LottieView.swift */; };
 		C028D4A12723CCCD00346A1A /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = C028D4A02723CCCD00346A1A /* Algorithms */; };
 		C028D4A42723CFBE00346A1A /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = C028D4A32723CFBE00346A1A /* Lottie */; };
-		C028D4A72723E82600346A1A /* blender.json in Resources */ = {isa = PBXBuildFile; fileRef = C028D4A62723E82600346A1A /* blender.json */; };
-		C028D4A92723F44000346A1A /* waveform.json in Resources */ = {isa = PBXBuildFile; fileRef = C028D4A82723F44000346A1A /* waveform.json */; };
 		C028D4AB2723F58C00346A1A /* view1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C028D4AA2723F58C00346A1A /* view1.swift */; };
 		C028D4AD2723F59600346A1A /* view2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C028D4AC2723F59600346A1A /* view2.swift */; };
-		C028D4AF2723F9D900346A1A /* translator.json in Resources */ = {isa = PBXBuildFile; fileRef = C028D4AE2723F9D900346A1A /* translator.json */; };
-		C028D4B1272405FF00346A1A /* soundwave.json in Resources */ = {isa = PBXBuildFile; fileRef = C028D4B0272405FE00346A1A /* soundwave.json */; };
-		C028D4B32724066E00346A1A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C028D4B22724066E00346A1A /* Constants.swift */; };
 		C028D4B5272406CB00346A1A /* view3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C028D4B4272406CB00346A1A /* view3.swift */; };
+		C075E8DC2816857300443264 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C075E8DB2816857300443264 /* Constants.swift */; };
+		C075E8DE2816858B00443264 /* blender.json in Resources */ = {isa = PBXBuildFile; fileRef = C075E8DD2816858B00443264 /* blender.json */; };
+		C075E8E02816859D00443264 /* soundwave.json in Resources */ = {isa = PBXBuildFile; fileRef = C075E8DF2816859D00443264 /* soundwave.json */; };
+		C075E8E2281685AD00443264 /* waveform.json in Resources */ = {isa = PBXBuildFile; fileRef = C075E8E1281685AD00443264 /* waveform.json */; };
+		C075E8E4281685C000443264 /* translator.json in Resources */ = {isa = PBXBuildFile; fileRef = C075E8E3281685C000443264 /* translator.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,14 +33,14 @@
 		C028D4922722CD8F00346A1A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C028D49B2722F30E00346A1A /* EmojiBigData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiBigData.swift; sourceTree = "<group>"; };
 		C028D49D2723CC7900346A1A /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
-		C028D4A62723E82600346A1A /* blender.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = blender.json; path = "../../../../../Downloads/2786a46a02a9db1f77bb3dda5407b8fe-0fd0638ca3193bb0759e7d15bbf04d4acf91c151/blender.json"; sourceTree = "<group>"; };
-		C028D4A82723F44000346A1A /* waveform.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = waveform.json; path = ../../../../../Downloads/waveform.json; sourceTree = "<group>"; };
 		C028D4AA2723F58C00346A1A /* view1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view1.swift; sourceTree = "<group>"; };
 		C028D4AC2723F59600346A1A /* view2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view2.swift; sourceTree = "<group>"; };
-		C028D4AE2723F9D900346A1A /* translator.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = translator.json; path = ../../../../../Downloads/translator.json; sourceTree = "<group>"; };
-		C028D4B0272405FE00346A1A /* soundwave.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = soundwave.json; path = ../../../../../Downloads/soundwave.json; sourceTree = "<group>"; };
-		C028D4B22724066E00346A1A /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = "../../../../../Downloads/htf-emoji/htf-emoji/Constants.swift"; sourceTree = "<group>"; };
 		C028D4B4272406CB00346A1A /* view3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view3.swift; sourceTree = "<group>"; };
+		C075E8DB2816857300443264 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = "../../../Downloads/HackThisFallFinal-main/htf-5/Constants.swift"; sourceTree = "<group>"; };
+		C075E8DD2816858B00443264 /* blender.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = blender.json; path = "../../../Downloads/HackThisFallFinal-main/htf-5/blender.json"; sourceTree = "<group>"; };
+		C075E8DF2816859D00443264 /* soundwave.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = soundwave.json; sourceTree = "<group>"; };
+		C075E8E1281685AD00443264 /* waveform.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = waveform.json; sourceTree = "<group>"; };
+		C075E8E3281685C000443264 /* translator.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = translator.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,11 +82,11 @@
 				C028D4B4272406CB00346A1A /* view3.swift */,
 				C028D49D2723CC7900346A1A /* LottieView.swift */,
 				C028D49B2722F30E00346A1A /* EmojiBigData.swift */,
-				C028D4B22724066E00346A1A /* Constants.swift */,
-				C028D4A62723E82600346A1A /* blender.json */,
-				C028D4B0272405FE00346A1A /* soundwave.json */,
-				C028D4A82723F44000346A1A /* waveform.json */,
-				C028D4AE2723F9D900346A1A /* translator.json */,
+				C075E8DB2816857300443264 /* Constants.swift */,
+				C075E8DD2816858B00443264 /* blender.json */,
+				C075E8DF2816859D00443264 /* soundwave.json */,
+				C075E8E1281685AD00443264 /* waveform.json */,
+				C075E8E3281685C000443264 /* translator.json */,
 				C028D48F2722CD8F00346A1A /* Assets.xcassets */,
 				C028D4912722CD8F00346A1A /* Preview Content */,
 			);
@@ -167,12 +167,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C075E8DE2816858B00443264 /* blender.json in Resources */,
+				C075E8E4281685C000443264 /* translator.json in Resources */,
 				C028D4932722CD8F00346A1A /* Preview Assets.xcassets in Resources */,
-				C028D4A72723E82600346A1A /* blender.json in Resources */,
 				C028D4902722CD8F00346A1A /* Assets.xcassets in Resources */,
-				C028D4AF2723F9D900346A1A /* translator.json in Resources */,
-				C028D4B1272405FF00346A1A /* soundwave.json in Resources */,
-				C028D4A92723F44000346A1A /* waveform.json in Resources */,
+				C075E8E02816859D00443264 /* soundwave.json in Resources */,
+				C075E8E2281685AD00443264 /* waveform.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,9 +188,9 @@
 				C028D49C2722F30E00346A1A /* EmojiBigData.swift in Sources */,
 				C028D49E2723CC7900346A1A /* LottieView.swift in Sources */,
 				C028D4B5272406CB00346A1A /* view3.swift in Sources */,
-				C028D4B32724066E00346A1A /* Constants.swift in Sources */,
 				C028D4AB2723F58C00346A1A /* view1.swift in Sources */,
 				C028D4AD2723F59600346A1A /* view2.swift in Sources */,
+				C075E8DC2816857300443264 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
